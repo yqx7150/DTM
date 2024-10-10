@@ -11,16 +11,20 @@ epoch: Specifies number of iterations.
 
 
 
-# Train
+## Training
 
-Prepare your own datasets for DTM
-
-##  To pretrain DiffIR_S1, run
+1. To pretrain DiffIR_S1, run
+```
 sh trainS1.sh
+```
 
-##   To train DiffIR_S2, run
+2. To train DiffIR_S2, run
+```
 #set the 'pretrain_network_g' and 'pretrain_network_S1' in ./options/train_DiffIRS2.yml to be the path of DiffIR_S1's pre-trained model
+
 sh trainS2.sh
+
+```
 
 ## Evaluation
 
