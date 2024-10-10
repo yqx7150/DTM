@@ -10,13 +10,13 @@ weight: Weight for forward loss.
 epoch: Specifies number of iterations.
  
 ## The training pipeline of DTM
- <div align="center"><img src="https://github.com/yqx7150/DTM/blob/main/figs/Fig3.png"> </div>
+ <div align="center"><img src="https://github.com/yqx7150/DTM/blob/main/figs/fig1.PNG"> </div>
  
 ## Two visualization pipeline of DTM
- <div align="center"><img src="https://github.com/yqx7150/DTM/blob/main/figs/Fig6.jpg"> </div>
+ <div align="center"><img src="https://github.com/yqx7150/DTM/blob/main/figs/fig2.PNG"> </div>
  
 ## The results of PET images
- <div align="center"><img src="https://github.com/yqx7150/DTM/blob/main/figs/Fig9.jpg"> </div>
+ <div align="center"><img src="https://github.com/yqx7150/DTM/blob/main/figs/fig3.PNG"> </div>
 
 
 ## Training
